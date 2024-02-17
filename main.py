@@ -18,13 +18,15 @@ logging.basicConfig(level=logging.INFO,
 async def main():
     await app_user.start()
     count = 1
+    last_msg = 0
     while True:
         msg = await app_user.send_message(chat_id=CHAT,
                               text='Хочу айфон.',
                               reply_to_message_id=MAIN_MESSAGE)
-        logging.info(f'{msg.link} | {msg.id} | Отослал сообщение №{count}')
-        print(f'{msg.link} | {msg.id} | Отослал сообщение №{count}')
+        logging.info(f'{msg.link} | {msg.id} | Отослал сообщение №{count} | msg/m: {msg.id-last_msg}')
+        print(f'{msg.link} | {msg.id} | Отослал сообщение №{count} | msg/m: {msg.id-last_msg}')
         count += 1
+        last_msg = msg.id
         time_range = random.randint(58, 63)
         await asyncio.sleep(time_range)
         next_msg = [i async for i in app_user.get_chat_history(chat_id=CHAT, limit=1)][0]
