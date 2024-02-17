@@ -36,3 +36,97 @@
 2024-02-17 21:54:05,666|INFO|PingTask started
 2024-02-17 21:54:05,943|INFO|Started 12 HandlerTasks
 2024-02-17 21:54:06,281|INFO|https://t.me/c/2015466621/24528 | 24528 | Отослал сообщение №1
+2024-02-17 22:49:58,158|INFO|Start creating a new auth key on DC2
+2024-02-17 22:49:58,159|INFO|Connecting...
+2024-02-17 22:49:58,228|INFO|Connected! Production DC2 - IPv4
+2024-02-17 22:50:00,072|INFO|Done auth key exchange: DhGenOk
+2024-02-17 22:50:00,073|INFO|Disconnected
+2024-02-17 22:50:00,146|INFO|Connecting...
+2024-02-17 22:50:00,244|INFO|Connected! Production DC2 - IPv4
+2024-02-17 22:50:00,246|INFO|NetworkTask started
+2024-02-17 22:50:00,743|INFO|Session initialized: Layer 158
+2024-02-17 22:50:00,743|INFO|Device: CPython 3.11.4 - Pyrogram 2.0.106
+2024-02-17 22:50:00,743|INFO|System: Windows 10 (en)
+2024-02-17 22:50:00,744|INFO|Session started
+2024-02-17 22:50:00,758|INFO|PingTask started
+2024-02-17 22:52:18,407|INFO|Start creating a new auth key on DC2
+2024-02-17 22:52:18,408|INFO|Connecting...
+2024-02-17 22:52:18,486|INFO|Connected! Production DC2 - IPv4
+2024-02-17 22:52:20,324|INFO|Done auth key exchange: DhGenOk
+2024-02-17 22:52:20,324|INFO|Disconnected
+2024-02-17 22:52:20,395|INFO|Connecting...
+2024-02-17 22:52:20,459|INFO|Connected! Production DC2 - IPv4
+2024-02-17 22:52:20,462|INFO|NetworkTask started
+2024-02-17 22:52:20,816|INFO|Session initialized: Layer 158
+2024-02-17 22:52:20,816|INFO|Device: CPython 3.11.4 - Pyrogram 2.0.106
+2024-02-17 22:52:20,816|INFO|System: Windows 10 (en)
+2024-02-17 22:52:20,816|INFO|Session started
+2024-02-17 22:52:20,830|INFO|PingTask started
+2024-02-17 22:52:41,213|INFO|Started 12 HandlerTasks
+2024-02-17 22:52:41,629|INFO|https://t.me/c/2015466621/32405 | 32405 | Отослал сообщение №1
+2024-02-17 22:53:22,131|INFO|Connecting...
+2024-02-17 22:53:22,186|INFO|Connected! Production DC2 - IPv4
+2024-02-17 22:53:22,189|INFO|NetworkTask started
+2024-02-17 22:53:22,480|INFO|Session initialized: Layer 158
+2024-02-17 22:53:22,480|INFO|Device: CPython 3.11.4 - Pyrogram 2.0.106
+2024-02-17 22:53:22,481|INFO|System: Windows 10 (en)
+2024-02-17 22:53:22,481|INFO|Session started
+2024-02-17 22:53:22,503|INFO|PingTask started
+2024-02-17 22:53:22,652|INFO|Started 12 HandlerTasks
+2024-02-17 22:53:23,042|INFO|https://t.me/c/2015466621/32466 | 32466 | Отослал сообщение №1
+2024-02-17 22:55:08,923|INFO|Connecting...
+2024-02-17 22:55:08,976|INFO|Connected! Production DC2 - IPv4
+2024-02-17 22:55:08,978|INFO|NetworkTask started
+2024-02-17 22:55:09,258|INFO|Session initialized: Layer 158
+2024-02-17 22:55:09,258|INFO|Device: CPython 3.11.4 - Pyrogram 2.0.106
+2024-02-17 22:55:09,258|INFO|System: Windows 10 (en)
+2024-02-17 22:55:09,259|INFO|Session started
+2024-02-17 22:55:09,281|INFO|PingTask started
+2024-02-17 22:55:09,423|INFO|Started 12 HandlerTasks
+2024-02-17 22:55:09,736|INFO|https://t.me/c/2015466621/32634 | 32634 | Отослал сообщение №1
+2024-02-17 22:58:27,292|INFO|Connecting...
+2024-02-17 22:58:27,373|INFO|Connected! Production DC2 - IPv4
+2024-02-17 22:58:27,375|INFO|NetworkTask started
+2024-02-17 22:58:27,738|INFO|Session initialized: Layer 158
+2024-02-17 22:58:27,738|INFO|Device: CPython 3.11.4 - Pyrogram 2.0.106
+2024-02-17 22:58:27,738|INFO|System: Windows 10 (en)
+2024-02-17 22:58:27,738|INFO|Session started
+2024-02-17 22:58:27,760|INFO|PingTask started
+2024-02-17 22:58:27,941|INFO|Started 12 HandlerTasks
+2024-02-17 22:58:28,253|INFO|https://t.me/c/2015466621/32930 | 32930 | Отослал сообщение №1
+2024-02-17 22:59:31,582|INFO|https://t.me/c/2015466621/33016 | 33016 | Отослал сообщение №2
+2024-02-17 23:00:31,271|INFO|https://t.me/c/2015466621/33107 | 33107 | Отослал сообщение №3
+2024-02-17 23:01:31,635|INFO|https://t.me/c/2015466621/33191 | 33191 | Отослал сообщение №4
+2024-02-17 23:02:35,187|INFO|https://t.me/c/2015466621/33298 | 33298 | Отослал сообщение №5
+2024-02-17 23:03:38,508|INFO|https://t.me/c/2015466621/33392 | 33392 | Отослал сообщение №6
+2024-02-17 23:06:09,774|INFO|Connecting...
+2024-02-17 23:06:09,831|INFO|Connected! Production DC2 - IPv4
+2024-02-17 23:06:09,835|INFO|NetworkTask started
+2024-02-17 23:06:10,122|INFO|Session initialized: Layer 158
+2024-02-17 23:06:10,123|INFO|Device: CPython 3.11.4 - Pyrogram 2.0.106
+2024-02-17 23:06:10,123|INFO|System: Windows 10 (en)
+2024-02-17 23:06:10,123|INFO|Session started
+2024-02-17 23:06:10,145|INFO|PingTask started
+2024-02-17 23:06:10,300|INFO|Started 12 HandlerTasks
+2024-02-17 23:06:10,617|INFO|https://t.me/c/2015466621/33620 | 33620 | Отослал сообщение №1
+2024-02-17 23:07:23,661|INFO|Connecting...
+2024-02-17 23:07:23,716|INFO|Connected! Production DC2 - IPv4
+2024-02-17 23:07:23,718|INFO|NetworkTask started
+2024-02-17 23:07:24,118|INFO|Session initialized: Layer 158
+2024-02-17 23:07:24,118|INFO|Device: CPython 3.11.4 - Pyrogram 2.0.106
+2024-02-17 23:07:24,118|INFO|System: Windows 10 (en)
+2024-02-17 23:07:24,118|INFO|Session started
+2024-02-17 23:07:24,141|INFO|PingTask started
+2024-02-17 23:07:24,470|INFO|Started 12 HandlerTasks
+2024-02-17 23:07:24,919|INFO|https://t.me/c/2015466621/33725 | 33725 | Отослал сообщение №1
+2024-02-17 23:10:54,264|INFO|Connecting...
+2024-02-17 23:10:54,332|INFO|Connected! Production DC2 - IPv4
+2024-02-17 23:10:54,337|INFO|NetworkTask started
+2024-02-17 23:10:54,670|INFO|Session initialized: Layer 158
+2024-02-17 23:10:54,670|INFO|Device: CPython 3.11.4 - Pyrogram 2.0.106
+2024-02-17 23:10:54,671|INFO|System: Windows 10 (en)
+2024-02-17 23:10:54,671|INFO|Session started
+2024-02-17 23:10:54,693|INFO|PingTask started
+2024-02-17 23:10:54,854|INFO|Started 12 HandlerTasks
+2024-02-17 23:10:55,161|INFO|https://t.me/c/2015466621/34017 | 34017 | Отослал сообщение №1
+2024-02-17 23:11:57,408|INFO|https://t.me/c/2015466621/34094 | 34094 | Отослал сообщение №2
