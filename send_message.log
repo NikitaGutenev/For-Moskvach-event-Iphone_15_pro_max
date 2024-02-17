@@ -1,0 +1,38 @@
+2024-02-17 21:43:51,695|INFO|Connecting...
+2024-02-17 21:43:51,773|INFO|Connected! Production DC2 - IPv4
+2024-02-17 21:43:51,776|INFO|NetworkTask started
+2024-02-17 21:43:52,179|INFO|Session initialized: Layer 158
+2024-02-17 21:43:52,179|INFO|Device: CPython 3.10.11 - Pyrogram 2.0.106
+2024-02-17 21:43:52,179|INFO|System: Windows 10 (en)
+2024-02-17 21:43:52,179|INFO|Session started
+2024-02-17 21:43:52,203|INFO|PingTask started
+2024-02-17 21:43:52,451|INFO|Started 12 HandlerTasks
+2024-02-17 21:43:52,822|INFO|Отослал сообщение №1 | 21:43:52
+2024-02-17 21:45:27,111|INFO|Connecting...
+2024-02-17 21:45:27,181|INFO|Connected! Production DC2 - IPv4
+2024-02-17 21:45:27,185|INFO|NetworkTask started
+2024-02-17 21:45:27,614|INFO|Session initialized: Layer 158
+2024-02-17 21:45:27,614|INFO|Device: CPython 3.10.11 - Pyrogram 2.0.106
+2024-02-17 21:45:27,614|INFO|System: Windows 10 (en)
+2024-02-17 21:45:27,614|INFO|Session started
+2024-02-17 21:45:27,639|INFO|PingTask started
+2024-02-17 21:45:27,948|INFO|Started 12 HandlerTasks
+2024-02-17 21:45:28,452|INFO|https://t.me/c/2015466621/23587 | 23587 | Отослал сообщение №1
+2024-02-17 21:46:27,083|INFO|https://t.me/c/2015466621/23701 | 23701 | Отослал сообщение №2
+2024-02-17 21:47:28,535|INFO|https://t.me/c/2015466621/23820 | 23820 | Отослал сообщение №3
+2024-02-17 21:48:30,188|INFO|https://t.me/c/2015466621/23932 | 23932 | Отослал сообщение №4
+2024-02-17 21:49:28,611|INFO|https://t.me/c/2015466621/24035 | 24035 | Отослал сообщение №5
+2024-02-17 21:50:30,494|INFO|https://t.me/c/2015466621/24145 | 24145 | Отослал сообщение №6
+2024-02-17 21:51:31,304|INFO|https://t.me/c/2015466621/24258 | 24258 | Отослал сообщение №7
+2024-02-17 21:52:32,380|INFO|https://t.me/c/2015466621/24365 | 24365 | Отослал сообщение №8
+2024-02-17 21:53:35,964|INFO|https://t.me/c/2015466621/24480 | 24480 | Отослал сообщение №9
+2024-02-17 21:54:05,229|INFO|Connecting...
+2024-02-17 21:54:05,287|INFO|Connected! Production DC2 - IPv4
+2024-02-17 21:54:05,290|INFO|NetworkTask started
+2024-02-17 21:54:05,641|INFO|Session initialized: Layer 158
+2024-02-17 21:54:05,642|INFO|Device: CPython 3.10.11 - Pyrogram 2.0.106
+2024-02-17 21:54:05,642|INFO|System: Windows 10 (en)
+2024-02-17 21:54:05,642|INFO|Session started
+2024-02-17 21:54:05,666|INFO|PingTask started
+2024-02-17 21:54:05,943|INFO|Started 12 HandlerTasks
+2024-02-17 21:54:06,281|INFO|https://t.me/c/2015466621/24528 | 24528 | Отослал сообщение №1
